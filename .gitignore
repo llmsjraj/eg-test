@@ -1,0 +1,34 @@
+# Visual Studio Code
+.vscode/
+
+# Ignore node_modules for all projects
+node_modules/
+
+# Ignore build artifacts
+build/
+dist/
+
+# Ignore environment files
+.env*
+
+# Ignore logs
+logs/
+
+# Ignore compiled TypeScript files
+*.js
+*.js.map
+
+# Ignore dependency lock files
+package-lock.json
+yarn.lock
+
+# Ignore temporary files
+.DS_Store
+Thumbs.db
+
+# Ignore Nest.js dist folder
+backend/dist/
+
+# Ignore React build folder
+frontend/build/
+frontend/dist/
