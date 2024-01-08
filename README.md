@@ -14,6 +14,7 @@ This repository includes two main components: a frontend and a backend. The fron
 1. `cd backend`
 2. Install dependencies: `npm install`
 3. Start the server (running on port 3000): `npm start`
+4. Swagger can be accessed at the `/swagger` endpoint. 
 
 **Frontend Setup:**
 1. `cd frontend` (from the root directory)
